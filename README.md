@@ -1,7 +1,7 @@
 # hello-world
 # Skills Lab 6
 
-###code:
+### code:
 
 print("what is your firstname?")
 
