@@ -1,6 +1,8 @@
 # hello-world
 # Skills Lab 6
 
+###code:
+
 print("what is your firstname?")
 
 firstname = input()
